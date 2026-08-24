@@ -99,6 +99,10 @@ When deploying online, ensure your Hugging Face access token is protected:
   <img src="assets/screenshot_result.png" width="45%" alt="Summarization Output" />
 </p>
 
-## 📄 License
+# 📝 IntellectExtract Enterprise
 
-This project is open-source and licensed under the [MIT License](LICENSE).
+### 🚀 [Live Demo Application](https://document-summarization-system.streamlit.app/)
+
+IntellectExtract Enterprise is an intelligent document processing pipeline built with **Streamlit** and powered by **Hugging Face's FLAN-T5 Large** model. It handles text extraction from multi-format files (PDFs, Images, and Text) and generates customizable abstractive summaries, allowing users to guide the AI with custom prompts and length limits.
+
+
